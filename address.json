@@ -1,0 +1,42 @@
+{
+    "9BVcYqEQxyccuwznvxXqDkSJFavvTyheiTYk231T1A8S": {
+        "entity": "mango",
+        "name": "Mango",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/mango.png"
+    },
+    "CuieVDEDtLo7FypA9SbLM9saXFdb1dsshEkyErMqkRQq": {
+        "entity": "alameda",
+        "name": "Alameda",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/alameda.png"
+    },
+    "HtJAWMsSRXbyBvXm1F4PDnGFzhgfBAPciyHWMZgugejX": {
+        "entity": "alameda2",
+        "name": "Alameda 2",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/alameda.png"
+    },
+    "5Xm6nU1Bi6UewCrhJQFk1CAV97ZJaRiFw4tFNhUbXy3u": {
+        "entity": "alameda3",
+        "name": "Alameda 3",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/alameda.png"
+    },
+    "3uTzTX5GBSfbW7eM9R9k95H7Txe32Qw3Z25MtyD2dzwC": {
+        "entity": "atrix",
+        "name": "Atrix",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/atrix.svg"
+    },
+    "5Q544fKrFoe6tsEbD7S8EmxGTJYAKtTVhAW5Q5pge4j1": {
+        "entity": "raydium",
+        "name": "Raydium",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/510e92ae15c46b86d93b26970d5fca6ec54405a1/traders/raydium.svg"
+    },
+    "5xoBq7f7CDgZwqHrDBdRWM84ExRetg4gZq93dyJtoSwp": {
+        "entity": "jump",
+        "name": "Jump Trading",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/jump.png"
+    },
+    "CwyQtt6xGptR7PaxrrksgqBSRCZ3Zb2GjUYjKD9jH3tf": {
+        "entity": "wintermute",
+        "name": "Wintermute",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/wintermute.png"
+    }
+}
