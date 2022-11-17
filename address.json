@@ -38,5 +38,10 @@
         "entity": "wintermute",
         "name": "Wintermute",
         "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/wintermute.png"
+    },
+    "CkcJx7Uwgxck5zm3DqUp2N1ikkkoPn2wA8zf7oS4tFSZ": {
+        "entity": "dualfinance",
+        "name": "Dual Finance",
+        "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/dualfinance.png"
     }
 }
