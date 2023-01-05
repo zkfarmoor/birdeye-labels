@@ -43,5 +43,10 @@
         "entity": "dualfinance",
         "name": "Dual Finance",
         "logo": "https://raw.githubusercontent.com/birdeye-so/birdeye-ads/main/traders/dualfinance.png"
+    },
+    "88xTWZMeKfiTgbfEmPLdsUCQcZinwUfk25EBQZ21XMAZ": {
+        "entity": "huobiexchange",
+        "name": "Huobi Exchange",
+        "logo": "https://assets.coingecko.com/markets/images/25/small/logo_V_colour_black.png?1669177364"
     }
 }
