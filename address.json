@@ -48,5 +48,22 @@
         "entity": "huobiexchange",
         "name": "Huobi Exchange",
         "logo": "https://assets.coingecko.com/markets/images/25/small/logo_V_colour_black.png?1669177364"
+    },
+    "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
+        "entity": "mexcexchange",
+        "name": "MEXC Exchange",
+        "logo": "https://assets.coingecko.com/markets/images/25/small/logo_V_colour_black.png?1669177364"
+    },
+
+
+    "DBR2ZUvjZTcgy6R9US64t96pBEZMyr9DPW6G2scrctQK": {
+        "entity": "bonkmultiSig",
+        "name": "Bonk MultiSig",
+        "logo": ""
+    },
+    "6JZoszTBzkGsskbheswiS6z2LRGckyFY4SpEGiLZqA9p": {
+        "entity": "bonktreasury",
+        "name": "Bonk Treasury",
+        "logo": ""
     }
 }
