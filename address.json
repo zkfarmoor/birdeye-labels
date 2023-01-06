@@ -52,7 +52,12 @@
     "ASTyfSima4LLAdDgoFGkgqoKowG1LZFDr9fAQrg7iaJZ": {
         "entity": "mexcexchange",
         "name": "MEXC Exchange",
-        "logo": "https://assets.coingecko.com/markets/images/25/small/logo_V_colour_black.png?1669177364"
+        "logo": "https://assets.coingecko.com/markets/images/409/small/MEXC_Global_Logo.jpeg?1672198629"
+    },
+    "u6PJ8DtQuPFnfmwHbGFULQ4u4EgjDiyYKjVEsynXq2w": {
+        "entity": "gateioexchange",
+        "name": "Gate.io Exchange",
+        "logo": "https://assets.coingecko.com/markets/images/60/small/gate_io_logo1.jpg?1654596784"
     },
 
 
