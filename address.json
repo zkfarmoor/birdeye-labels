@@ -129,9 +129,14 @@
         "name": "Hadeswap NFT Staking Emission",
         "logo": ""
     }, 
-    "d4sH8ckL3iowTSin8gQaXtY9nQvdKCx2jimiV9qdndd": {
+    "FuXcjyY3EkoC8YxiM1XrivHfYKmtFeeUdKppjybdp22C": {
         "entity": "hadeswapdao",
         "name": "HadeSwap DAO",
+        "logo": ""
+    }, 
+    "d4sH8ckL3iowTSin8gQaXtY9nQvdKCx2jimiV9qdndd": {
+        "entity": "hadeswapbonding",
+        "name": "HadeSwap Bonding",
         "logo": ""
     }, 
     "8hMQ6wPd3JcBWJYCdk5KmgCZkvSyNWsT3i4QzBRNEe8Z": {
