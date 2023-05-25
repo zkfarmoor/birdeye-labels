@@ -182,5 +182,15 @@
         "entity": "raydiumclammlp",
         "name": "Raydium CLAMM LP",
         "logo": ""
+    },
+    "SamotoLyMemeKovenkooooooooooooooooooooooooo": {
+        "entity": "samoburnwallet",
+        "name": "SAMO Burnt",
+        "logo": ""
+    },
+    "BurnAirdropSamooooooooooooooooooooooooooooon": {
+        "entity": "samoburnairdrop",
+        "name": "SAMO Airdrop Burnt",
+        "logo": ""
     }
 }
