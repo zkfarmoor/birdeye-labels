@@ -207,5 +207,10 @@
         "entity": "ftxcoldstorage1",
         "name": "FTX Cold Storage",
         "logo": ""
+    },
+    "7VHUFJHWu2CuExkJcJrzhQPJ2oygupTWkL2A2For4BmE": {
+        "entity": "circle",
+        "name": "Circle",
+        "logo": ""
     }
 }
