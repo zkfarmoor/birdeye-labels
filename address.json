@@ -212,5 +212,30 @@
         "entity": "circle",
         "name": "Circle",
         "logo": ""
+    },
+    "J5dBe2Yj2DcTT2SvhG8HVYDNNEix6SQLfr354VkbkZ24": {
+        "entity": "fomoclaim",
+        "name": "FOMO Claim",
+        "logo": ""
+    },
+    "D9iAjvzAU9P3Pk8CieNzE11V4yeFJBK45rw4EYa4kKcH": {
+        "entity": "fomoburn",
+        "name": "FOMO Burn",
+        "logo": ""
+    },
+    "AgCiYWsuEN22TTtR8uCdH9g5GUcJBvWJmipA5CNY2sCp": {
+        "entity": "fomocex",
+        "name": "FOMO Cex",
+        "logo": ""
+    },
+    "3Tym7K58PActsd1duAjEgY9TBfzogwR9ctE6rEV5crao": {
+        "entity": "fomoteam",
+        "name": "FOMO Team",
+        "logo": ""
+    },
+    "3oW4RtTYr8kckqWYcThbw8vgrjS74wRffH6CDLoPokH8": {
+        "entity": "fomogame",
+        "name": "FOMO Game",
+        "logo": ""
     }
 }
