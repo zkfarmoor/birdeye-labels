@@ -237,5 +237,10 @@
         "entity": "fomogame",
         "name": "FOMO Game",
         "logo": ""
+    },
+    "EXqYZtA1d4Nx2WjYuQ1GvdeujFM8VbvmjfdmJBJj7guc": {
+        "entity": "libreplex_escrow",
+        "name": "Libreplex Escrow",
+        "logo": ""
     }
 }
