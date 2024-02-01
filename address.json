@@ -247,5 +247,25 @@
         "entity": "binance",
         "name": "Binance",
         "logo": ""
+    },
+    "61aq585V8cR2sZBeawJFt2NPqmN7zDi1sws4KLs5xHXV":{
+        "entity": "jupiter_team_cold_wallet",
+        "name": "Jupiter Team Cold Wallet",
+        "logo": ""
+    },
+    "EXJHiMkj6NRFDfhWBMKccHNwdSpCT7tdvQeRf87yHm6T":{
+        "entity": "jupiter_community_cold_wallet",
+        "name": "Jupiter Community Cold Wallet",
+        "logo": ""
+    },
+    "CbU4oSFCk8SVgW23NLvb5BwctvWcZZHfxRD6HudP8gAo":{
+        "entity": "jupiter_team_hot_wallet",
+        "name": "Jupiter Team Hot Wallet",
+        "logo": ""
+    },
+    "FVhQ3QHvXudWSdGix2sdcG47YmrmUxRhf3KCBmiKfekf":{
+        "entity": "jupiter_community_hot_wallet",
+        "name": "Jupiter Community Hot Wallet",
+        "logo": ""
     }
 }
