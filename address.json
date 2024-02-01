@@ -242,5 +242,10 @@
         "entity": "libreplex_escrow",
         "name": "Libreplex Escrow",
         "logo": ""
+    },
+    "5tzFkiKscXHK5ZXCGbXZxdw7gTjjD1mBwuoFbhUvuAi9": {
+        "entity": "binance",
+        "name": "Binance",
+        "logo": ""
     }
 }
