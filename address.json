@@ -267,5 +267,25 @@
         "entity": "jupiter_community_hot_wallet",
         "name": "Jupiter Community Hot Wallet",
         "logo": ""
+    },
+    "GNeE88D7V5Q9n7DuprodbMuxrzYppaLmnPqpiex1acX2":{
+        "entity": "lifinity_dao_treasury",
+        "name": "Lifinity DAO Treasury",
+        "logo": ""
+    },
+    "AvtfUvU3byPXgp6Dpw3mgKB2BbVwQvGyry9KeMzD9BLc":{
+        "entity": "velfnty_program",
+        "name": "veLFNTY Program",
+        "logo": ""
+    },
+    "3F7DByNK8rxfn5GhvrCXyABdDaSU9dyUiEwtKLnKDtkh":{
+        "entity": "vesting_team_allocation",
+        "name": "Vesting Team Allocation",
+        "logo": ""
+    },
+    "HAD8LGL8jBTAPe7fen5NAd5fckz3c4ezKJFqcDJC1aVa":{
+        "entity": "meteora_LFNTY-USDC_pool",
+        "name": "Meteora LFNTY-USDC Pool",
+        "logo": ""
     }
 }
