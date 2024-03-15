@@ -287,5 +287,36 @@
         "entity": "meteora_LFNTY-USDC_pool",
         "name": "Meteora LFNTY-USDC Pool",
         "logo": ""
+    },
+
+    "M2Ec2AF6YymvKuCtNDrKhHGivcr3UXavthqnsJ9Pm9c":{
+        "entity": "ecosystem_grants",
+        "name": "Ecosystem Grants",
+        "logo": ""
+    },
+    "4ttnXjwWHd18TnctDWprvFbuifW2qWwhZMn6ZnfzzRqV":{
+        "entity": "marketing_and_pperations",
+        "name": "Marketing and Operations",
+        "logo": ""
+    },
+    "GQYTML41FGmURjRUpHhyGKKZQwAz1688ioMo99Y174nD":{
+        "entity": "founders_vesting",
+        "name": "Founders Vesting",
+        "logo": ""
+    },
+    "42uTUpwpRTimtP6L7EYF8JKDhrMxVFgyEFGSAmTbrvQX":{
+        "entity": "ecosystem_developement",
+        "name": "Ecosystem Developement",
+        "logo": ""
+    },
+    "CnwUCTGTMDhWpoGxGkLh76i9FeCzHb69xAyUk5NZHfqk":{
+        "entity": "airdrops",
+        "name": "Airdrops",
+        "logo": ""
+    },
+    "DevwHyy46NcEduCJ32WwsJFUirifWgvSdSGUNEj6DrVM":{
+        "entity": "liquidity",
+        "name": "Liquidity",
+        "logo": ""
     }
 }
