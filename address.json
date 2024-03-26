@@ -318,5 +318,33 @@
         "entity": "liquidity",
         "name": "Liquidity",
         "logo": ""
+    },
+
+
+
+    "8oPUU49jDnNedYbSKV4AKFhzNr9C1J9h8g2m66GS1kSo":{
+        "entity": "banx_staking",
+        "name": "$BANX Staking",
+        "logo": ""
+    },
+    "CeLVauEWgy57d3H22tth9RpYS78zRTabG6ABDRfxptYj":{
+        "entity": "bandx_launch_claim",
+        "name": "$BANX Launch Claim",
+        "logo": ""
+    },
+    "9b8uoVgTMNycpJZQvrwp9yz7HiZmexY12ep2su3CtJv4":{
+        "entity": "banx_team_multisig",
+        "name": "Banx Team Multisig",
+        "logo": ""
+    },
+    "BANXe9cmtM1kUDwnRzzmYAihdmaV1nPhs4ZhvzeGY52z":{
+        "entity": "banx_team_hot_wallet",
+        "name": "Banx Team Hot Wallet",
+        "logo": ""
+    },
+    "BanxNBv4S45jzsuHDKK7oghb7GoUhe2nB2E5QqxA61tG":{
+        "entity": "banx_team_hot_wallet",
+        "name": "Banx Team Hot Wallet",
+        "logo": ""
     }
 }
