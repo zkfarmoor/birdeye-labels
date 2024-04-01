@@ -346,5 +346,10 @@
         "entity": "banx_team_hot_wallet",
         "name": "Banx Team Hot Wallet",
         "logo": ""
+    },
+    "3XKetvnK4x1c264L5ztfmiWRcEqcVtDtraVcm7pbopym": {
+        "entity": "bnx_liquidity_allocation",
+        "name": "Banx Liquidity Allocation",
+        "logo": ""
     }
 }
