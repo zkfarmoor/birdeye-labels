@@ -351,5 +351,10 @@
         "entity": "bnx_liquidity_allocation",
         "name": "Banx Liquidity Allocation",
         "logo": ""
+    },
+    "FZDZuLD6KJAb1UXcGgvcQAmnDzQEfdbw5tAyJLFLQ6ND": {
+        "entity": "tensor_treasury",
+        "name": "Tensor Treasury",
+        "logo": ""
     }
 }
