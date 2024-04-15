@@ -356,5 +356,10 @@
         "entity": "tensor_treasury",
         "name": "Tensor Treasury",
         "logo": ""
+    },
+    "FWznbcNXWQuHTawe9RxvQ2LdCENssh12dsznf4RiouN5": {
+        "entity": "kraken",
+        "name": "Kraken",
+        "logo": ""
     }
 }
